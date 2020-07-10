@@ -1,1 +1,1 @@
-This is a MQTT Broker/Server application.
+This is a MQTT Broker/Server .NET Core Console application.
