@@ -1,1 +1,3 @@
 This is a messenger app. (used windows forms for better understanding)
+
+All the functionalities in the app are not used. Used the functionalities related to the POC.
