@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="System.Net.Mqtt" Version="0.6.3-beta" />
     <PackageReference Include="System.Net.Mqtt.Server" Version="0.6.3-beta" />
   </ItemGroup>
